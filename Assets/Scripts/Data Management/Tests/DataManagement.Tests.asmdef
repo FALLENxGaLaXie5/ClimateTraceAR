@@ -1,0 +1,16 @@
+{
+    "name": "DataManagement.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f9b97a97c63cf564a80ba31b09bfd0d6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

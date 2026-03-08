@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e02c9e88077d1e4f9a2f4f7dbf21b89, type: 3}
+  m_Name: Climate Trace Controller
+  m_EditorClassIdentifier: DataManagement::Data_Management.Runtime.Controllers.ClimateTraceController
+  apiProvider: {fileID: 11400000, guid: 44af9f6ebaac0ed4eaa869d75023a2f2, type: 2}
+  emissionsData: {fileID: 11400000, guid: cff0f2a575d8cf5418ea18631b65ea9e, type: 2}
+  query:
+    countryCode: USA
+    allSectors: 1
+    sectors:
+    - power
+    - transportation
+    limit: 100000
+    offset: 0
+  filterByLocation: 1
+  centerLatitude: 34.2484
+  centerLongitude: -119.17187
+  radiusKm: 10
