@@ -9,6 +9,10 @@ ehthumbs.db
 Thumbs.db
 desktop.ini
 
+# --- Apple/Mac Specific
+.AppleDouble
+.LSOverride
+
 # --- Unity Folders ---
 /[Ll]ibrary/
 /[Tt]emp/
@@ -24,6 +28,10 @@ desktop.ini
 !/[Aa]ssets/**/*.meta
 
 # --- IDE & Build Tools ---
+*.slnx
+.vscode/
+.plastic/
+.utmp
 .vs/
 .gradle/
 .idea/
@@ -48,6 +56,8 @@ desktop.ini
 ExportedObj/
 .consulo/
 sysinfo.txt
+/sysinfo.txt
+/[Cc]rash[Rr]eports/
 
 # --- Large/Compiled Files ---
 *.apk
