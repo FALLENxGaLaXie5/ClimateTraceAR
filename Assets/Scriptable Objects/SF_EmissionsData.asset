@@ -15,7 +15,7 @@ MonoBehaviour:
   queryLatitude: 34.2484
   queryLongitude: -119.17187
   queryRadiusKm: 10
-  lastUpdated: 2026-02-08 16:19:13
+  lastUpdated: 2026-05-11 18:21:46
   sources:
   - id: 2094500
     name: Ventura Harbor
@@ -29,15 +29,15 @@ MonoBehaviour:
       latitude: 34.264835
       srid: 4326
     gas: co2e_100yr
-    emissionsQuantity: 129706.04
-    emissionsFactor: 0.88492775
+    emissionsQuantity: 141035.58
+    emissionsFactor: 0.51091564
     emissionsFactorUnits: t of CO2e_100yr per Nautical miles (nmi)
-    activity: 146572.47
+    activity: 276044.75
     activityUnits: Nautical miles (nmi)
-    capacity: 11614
+    capacity: 10732
     capacityUnits: voyages and stays
-    capacityFactor: 12.620326
-    year: 2024
+    capacityFactor: 25.72165
+    year: 2025
   - id: 25456132
     name: E F Oxnard Energy Facility
     sector: power
@@ -50,15 +50,15 @@ MonoBehaviour:
       latitude: 34.1958
       srid: 4326
     gas: co2e_100yr
-    emissionsQuantity: 70474
-    emissionsFactor: 0.44945154
+    emissionsQuantity: 70453
+    emissionsFactor: 0.44940358
     emissionsFactorUnits: t of CO2e_100yr per MWh
-    activity: 156800
+    activity: 156770
     activityUnits: MWh
     capacity: 48.5
     capacityUnits: MW
-    capacityFactor: 3232.9897
-    year: 2024
+    capacityFactor: 3232.371
+    year: 2025
   - id: 25456236
     name: Oxnard
     sector: power
@@ -71,12 +71,12 @@ MonoBehaviour:
       latitude: 34.196
       srid: 4326
     gas: co2e_100yr
-    emissionsQuantity: 99827
-    emissionsFactor: 0.44942823
+    emissionsQuantity: 99798
+    emissionsFactor: 0.44939885
     emissionsFactorUnits: t of CO2e_100yr per MWh
-    activity: 222120
+    activity: 222070
     activityUnits: MWh
     capacity: 68.7
     capacityUnits: MW
-    capacityFactor: 3233.1877
-    year: 2024
+    capacityFactor: 3232.46
+    year: 2025
